@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bmp.png</file>
+        <file>bmp_folder.png</file>
+        <file>broom.png</file>
+        <file>brush.png</file>
+        <file>draw_cursor.png</file>
+        <file>erase_square.png</file>
+        <file>eraser.png</file>
+        <file>folder.png</file>
+        <file>image.png</file>
+        <file>img.png</file>
+        <file>img_folder.png</file>
+        <file>Logo.png</file>
+        <file>painter.png</file>
+        <file>painter_cursor.png</file>
+        <file>redo.png</file>
+        <file>remove.png</file>
+        <file>remove_files.png</file>
+        <file>save.png</file>
+        <file>spoid.png</file>
+        <file>square.png</file>
+        <file>txt.png</file>
+        <file>txt_folder.png</file>
+        <file>undo.png</file>
+    </qresource>
+</RCC>
