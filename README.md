@@ -1,7 +1,7 @@
 # labeling-tool-QT-Creator-
 GUI Tool for labeling images (Object Detection, Semantic Segmentation)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/59387731/98764325-e4223d00-241e-11eb-88e2-bdd004960bc5.png)
 
 ## Description
 Demo_Guide.pdf
